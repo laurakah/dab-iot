@@ -106,6 +106,7 @@ void onSensor(Framework &sensor)
       }
       ledbar.setLevel(ctReset);
     }
+    Serial.print("Touch Sensor: ");
   }
   
   // For debugging only: Sensordaten auf dem seriellen Monitor ausgeben
