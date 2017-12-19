@@ -3,6 +3,7 @@
 ## Pinout:
 * Sound sensor: A0
 * UV sensor: A1
+* Light Sensor: A2
 
 
 * Acceleration sensor: I2C (I)
